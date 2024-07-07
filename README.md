@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
 <h3 align="center">Analista y desarrollador de software. 💻 📙📘📒</h3>
-<img src="https://lh3.googleusercontent.com/d/1niAZp8X3aWAPu49OadrBG6HY2Fi1yvJz=w250?authuser=0" alt="Banner">
+<img src="https://lh3.googleusercontent.com/d/1niAZp8X3aWAPu49OadrBG6HY2Fi1yvJz=w250?authuser=0" alt="Banner" width="1000">
 
 <ul>
   <li>💼 Tengo experiencia como desarrollador de software en <strong>Pastas Comarrico/Grupo Nutresa</strong>.</li>
