@@ -11,13 +11,13 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/370778" target="_blank">
+  <a href="https://es.stackoverflow.com/users/370778/leonardo-pinto" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" />
   </a>
   <a href="https://instagram.com/leonard__p4" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
-  <a href="https://www.youtube.com/c/@raptorcode4451" target="_blank">
+  <a href="https://www.youtube.com/@raptorcode4451" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-pinto-b72b1a24a" target="_blank">
