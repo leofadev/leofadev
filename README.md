@@ -1,4 +1,4 @@
-}<h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
+<h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
 <h3 align="center">Analista y desarrollador de software. 💻 📙📘📒</h3>
 
 <ul>
