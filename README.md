@@ -13,9 +13,9 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/370778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="370778" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/370778/leonardo-pinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="370778" height="30" width="30" /></a>
 <a href="https://instagram.com/leonard__p4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonard__p4" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/@raptorcode4451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raptorcode4451" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@raptorcode4451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raptorcode4451" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
