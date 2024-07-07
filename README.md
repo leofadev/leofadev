@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
 <h3 align="center">Analista y desarrollador de software. 💻 📙📘📒</h3>
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1huCrfUGiwVvwp5GJZZTNTiSt746HkjsT?authuser=0" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://lh3.googleusercontent.com/d/1huCrfUGiwVvwp5GJZZTNTiSt746HkjsT?authuser=0" alt="Banner" style="max-width: 100%; height: 50%;">
 </p>
 
 <ul>
