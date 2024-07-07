@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
+}<h1 align="center">Hola 👋, soy Leonardo Pinto</h1>
 <h3 align="center">Analista y desarrollador de software. 💻 📙📘📒</h3>
 
 <ul>
@@ -19,6 +19,9 @@
   </a>
   <a href="https://www.youtube.com/c/@raptorcode4451" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-pinto-b72b1a24a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
